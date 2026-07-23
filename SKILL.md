@@ -2,7 +2,7 @@
 name: QA Skill for Claude Code
 description: The complete QA skill for Claude Code — turn Claude into an expert QA engineer that picks the right test type, writes reliable Playwright, Cypress, and pytest tests, eliminates flaky tests, enforces coverage, and wires up CI. Claude Code QA testing done right.
 version: 1.0.0
-author: qaskills
+author: Bhavini Patel
 license: MIT
 testingTypes: [e2e, unit, integration, api]
 frameworks: [playwright, cypress, jest, vitest, pytest]
